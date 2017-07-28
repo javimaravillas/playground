@@ -18,6 +18,8 @@
   "homepage": "https://github.com/javimaravillas/playground#readme",
   "dependencies": {
     "keythereum": "^1.0.1",
+    "secp256k1": "^3.3.0",
+    "solc": "^0.4.13",
     "web3": "^0.19.1"
   },
   "devDependencies": {
